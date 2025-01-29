@@ -1,0 +1,3 @@
+
+### optener lista de pokemons
+GET https://pokeapi.co/api/v2/pokemon HTTP/1.1
