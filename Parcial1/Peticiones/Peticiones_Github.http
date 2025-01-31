@@ -1,3 +1,8 @@
 GET https://api.github.com/users/octocat
 Accept: application/vnd.github.v3+json
-User-Agent: Marioal120
+User-Agent: Marioal1206
+
+GET https://api.github.com/users/octocat/repos
+Accept: application/vnd.github.v3+json
+User-Agent: my-app
+
